@@ -1,0 +1,16 @@
+.div-animate {
+  animation: div-animate 2s infinite ease-in-out alternate;
+}
+@keyframes div-animate {
+  0% {
+    left: -120px;
+    top: 0px;
+  }
+  50% {
+    top: -100px;
+  }
+  100% {
+    left: 120px;
+    top: 0px;
+  }
+}
