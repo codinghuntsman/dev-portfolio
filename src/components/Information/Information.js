@@ -28,6 +28,16 @@ const Information = () => {
         <div className="mt-5">
           <a
             className="btn btn-xs sm:btn-sm md:btn-md text-xs lg:text-sm btn-outline rounded-md border text-indigo-500 border-indigo-500 hover:bg-indigo-500 font-bold hover:border-indigo-500 welcome"
+            href="https://stackoverflow.com/users/18383895/md-sajedul-islam?tab=profile"
+            target="_blank"
+            rel="noreferrer"
+          >
+            STACK OVERFLOW
+          </a>
+        </div>
+        <div className="mt-5">
+          <a
+            className="btn btn-xs sm:btn-sm md:btn-md text-xs lg:text-sm btn-outline rounded-md border text-indigo-500 border-indigo-500 hover:bg-indigo-500 font-bold hover:border-indigo-500 welcome"
             href="https://www.linkedin.com/in/md-sajedul-islam-a4b073241/"
             target="_blank"
             rel="noreferrer"
@@ -56,6 +66,19 @@ const Information = () => {
             rel="noreferrer"
           >
             GITHUB
+          </a>
+        </div>
+        <div className="mt-5">
+          <a
+            className="btn btn-xs sm:btn-sm md:btn-md text-xs lg:text-sm btn-outline rounded-md border text-indigo-500 border-indigo-500 hover:bg-indigo-500 font-bold hover:border-indigo-500 welcome"
+            href="https://drive.google.com/file/d/1rPaZRF_G-PA5UuST8abTef_f_nBX0Jc_/view?usp=sharing"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <span className="text-[15px] mr-1">
+              <HiOutlineDownload />
+            </span>
+            DOWNLOAD CV
           </a>
         </div>
       </div>
