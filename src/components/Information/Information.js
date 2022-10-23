@@ -38,7 +38,7 @@ const Information = () => {
         <div className="mt-5">
           <a
             className="btn btn-xs sm:btn-sm md:btn-md text-xs lg:text-sm btn-outline rounded-md border text-indigo-500 border-indigo-500 hover:bg-indigo-500 font-bold hover:border-indigo-500 welcome"
-            href=""
+            href="https://drive.google.com/file/d/1GdKUnSr_Y39_wjquuQksAAopwpioDVuW/view?usp=sharing"
             target="_blank"
             rel="noreferrer"
           >
