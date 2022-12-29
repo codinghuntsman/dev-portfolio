@@ -64,7 +64,7 @@ const Footer = () => {
                 <AiFillLinkedin />
               </span>
             </a>
-            <a href="https://github.com/codinghuntsman?tab=repositories" target="_blank" rel="noreferrer">
+            <a href="https://github.com/mdsajedulislamdev?tab=repositories" target="_blank" rel="noreferrer">
               <span className="text-xl lg:text-4xl hover:text-orange-500 animation duration-150 ease-in-out">
                 <FaGithub />
               </span>

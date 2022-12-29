@@ -13,7 +13,7 @@ const Information = () => {
             MD SAJEDUL ISLAM
           </h2>
           <h2 className="lg:text-[17.3px] md:text-xl text-[11px] font-bold tracking-wider text-transparent bg-clip-text bg-gradient-to-t from-indigo-400 to-green-500 text-left welcome">
-            I'm a Frontend Web <span className="text-green-500">D</span>eveloper [ReactJS]
+            I'm a Frontend Web <span className="text-green-500">D</span>eveloper [HTML, CSS, JS & React]
           </h2>
         </div>
         <div className="h-[350px] md:w-[200px] lg:w-[675px]">
@@ -61,7 +61,7 @@ const Information = () => {
         <div className="mt-5">
           <a
             className="btn btn-xs sm:btn-sm md:btn-md text-xs lg:text-sm btn-outline rounded-md border text-indigo-500 border-indigo-500 hover:bg-indigo-500 font-bold hover:border-indigo-500 welcome"
-            href="https://github.com/codinghuntsman"
+            href="https://github.com/mdsajedulislamdev?tab=repositories"
             target="_blank"
             rel="noreferrer"
           >
